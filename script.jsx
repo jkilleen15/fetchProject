@@ -33,6 +33,8 @@ const Pic = props => (
   </li>
 );
 
+// Primary component rendered to DOM
+
 class Fetch extends React.Component {
   constructor (props) {
     super(props);
